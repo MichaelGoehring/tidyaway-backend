@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="de" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="x-apple-disable-message-reformatting">
+	<title>lunch | mainkiez.de</title>
+	<!--[if mso]> 
+<noscript> 
+<xml> 
+<o:OfficeDocumentSettings> 
+<o:PixelsPerInch>96</o:PixelsPerInch> 
+</o:OfficeDocumentSettings> 
+</xml> 
+</noscript> 
+<![endif]-->
+	<style>
+		table, td, div, h1, p {font-family: Arial, sans-serif;}
+		table, td {border:2px solid #000000 !important;}
+
+        .button {
+         border-radius: 2px;
+            margin: 0 auto;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .button a {
+            padding: 0;
+            background-color:beige;
+            border: 1px solid #ED2939;
+            border-radius: 2px;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 24px;
+            color: black; 
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;  
+            overflow: hidden;
+            box-shadow: 3px;
+        }
+	</style>
+</head>
+<body style="margin:0;padding:0;">
+    <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;background:#ffffff;">
+		<tr>
+			<td align="center" style="padding:0;">
+                <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
+                    <tr>
+                        <td style="padding:40px 0 30px 0; text-align: center;">
+                            <img src="https://lunch.mainkiez.de/res/lunch_mail.png" alt="lunch | mainkiez.de">
+                        </td>
+                    </tr>          
+                    <tr>
+                        <td style="padding:36px 30px 42px 30px;">
+                            <table>
+                                <tr>
+                                    <td>
+                                        Welcome to vita
+                                        The curriculum vitae platform that makes xour application a breeze.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Manage your resumes and highlight your skills and experiences for your next, great job.
+                                    </td>
+                                </tr> 
+                                <tr>
+                                    <td>
+                                        Confirm your registration and get started.
+                                    </td>
+                                </tr> 
+                                <tr>
+                                    <td class="button"align="center" >
+                                        <a href="$link">Confirm sign up</a>
+                                    </td>
+                                </tr> 
+                                <tr>
+                                    <td style="font-family: sans-serif;">
+                                        confirm your sign up to vita, the platform to create and provide your resumes.
+                                    </td>
+                                </tr> 
+          
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:36px 30px 42px 30px;">
+                            <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;">
+                                <tr>
+                                    <td style="padding:0;">
+                                        Footer
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding:0;">
+                                       Footer Zeile2 
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
