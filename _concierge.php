@@ -3,7 +3,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-
 DEFINE('TEMPLATEDIR', $_SERVER['DOCUMENT_ROOT'].'/backend/internal/');
 
 DEFINE('SMTP_HOST', 'smtp.goneo.de');
